@@ -1,0 +1,5 @@
+{
+  "name": "103.1 Pure Rock FM Interactive",
+  "description": "An interactive web application for the 103.1 Pure Rock FM radio station, featuring a live player, dynamic content like news, weather, and traffic updates, and listener interaction powered by Gemini.",
+  "requestFramePermissions": []
+}
